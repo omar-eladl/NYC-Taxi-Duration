@@ -11,18 +11,6 @@ Welcome to the NYC Taxi Trip Duration Predictor a handy tool that guesses how lo
 - 📊 Comprehensive Metrics Display: RMSE, R², and MAE for train, validation, and test sets.  
 - 📈 Scalable Framework: Easily adaptable for other cities or datasets.
 
-## Usage
-
-1. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-2. Start the Streamlit application:
-   ```bash
-   streamlit run Streamlit.py
-3. Open your web browser and go to:
-   ```bash
-   http://localhost:8501
 
 ## Model Details
 
